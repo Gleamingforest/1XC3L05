@@ -1,0 +1,9 @@
+(a)How are the iterative and recursive algorithms similar and different for the same test cases?Which has more repetition?
+Both functions execute instructions repeadly until a condition is met and an output is produced. recursive algorithm calls itself over and over again, thus the function repeats multiple time until a condition is met. In an iterative algorithm the number of iterations is defined and therefore can have less repetitions.
+(b) What is the most executed line in the iterative and recursive algorithms? Are they the same?
+for both algorithm the most executed line is line 242: for (int i = 0; i < 1000; j++){
+(c) Are there any parts of the code which are not exercised?
+Yes Commas semi-colons and blank lines
+(d) If we were to try to optimize either function, where would be a good place to start?
+ON line 242
+
